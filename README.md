@@ -51,7 +51,14 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2295177055
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1125440490
 
-I apologize to the creators of the originals, from whom I took the addons without their knowledge
+I apologize to the creators of the originals, from whom I took the addons without their knowledge:
+
+Willi302 https://steamcommunity.com/id/Willi302
+
+Seagull https://steamcommunity.com/id/Seagvll
+
+Brucektrain DEAF https://steamcommunity.com/id/brucektrain
+
 
 Addons that are needed for this modification:
 
@@ -69,4 +76,12 @@ How to use it:
 
 3.Drive
 
-Good luck using it
+Other Info:
+
+Working with AE86 Black Limited for Simfphys https://steamcommunity.com/sharedfiles/filedetails/?id=1385918240&searchtext=Black+Limited
+
+Sound from this addon - https://steamcommunity.com/sharedfiles/filedetails/?id=2565165364
+
+Download https://drive.google.com/file/d/1ZRannxAfvIuCQZ0wIzOIF7L9rEyec4Q6/view
+
+Good luck in using it
