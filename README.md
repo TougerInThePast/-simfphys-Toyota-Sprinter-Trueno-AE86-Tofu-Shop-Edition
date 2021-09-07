@@ -78,7 +78,11 @@ How to use it:
 
 Other Info:
 
+This car have a Speed Chime (100 km/h ding-ding)
+
 Working with AE86 Black Limited for Simfphys https://steamcommunity.com/sharedfiles/filedetails/?id=1385918240&searchtext=Black+Limited
+
+If you have Black Limited and my addon together in the game, then use simf_ae86_tofu_chime_mode 0 or simf_ae86_bl_chime_mode 0 in the console, this will help remove the double bell at 100 km/h, the sound of my addon is different from BL, so choose which sound you like best
 
 Sound from this addon - https://steamcommunity.com/sharedfiles/filedetails/?id=2565165364
 
